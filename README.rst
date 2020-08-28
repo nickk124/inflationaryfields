@@ -1,6 +1,6 @@
 inflationaryfields
 ==================
-Final project for ASTR 504/704: Cosmology, on the presence of an additional scalar field during the cosmological inflationary epoch.
+Final project for ASTR 504/704: Cosmology, on the presence of an additional scalar field during the cosmological inflationary epoch. [I can't seem to find the final version of the .tex file, unfortunately :( ].
 
 Abstract
 ========
